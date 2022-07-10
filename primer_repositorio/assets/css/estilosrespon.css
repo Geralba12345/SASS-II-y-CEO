@@ -1,0 +1,45 @@
+main {
+  background-color: rgba(217, 217, 217, 55%);
+  padding: 170px;
+  font-family: 'IM Fell Great Primer', serif; }
+  main .carrousil {
+    padding: 20px; }
+  main .imgNos {
+    padding: 20px; }
+  main .artCompra {
+    padding: 40px;
+    color: color black; }
+  main .ubiContacto {
+    padding: 30px; }
+  main .listIndex {
+    padding: 20px; }
+  main .artNos {
+    padding: 20px; }
+  main .imgGuns {
+    padding: 20px; }
+  main .formContact {
+    padding: 30px; }
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 55%);
+  padding: 25px;
+  border-style: solid none none none;
+  border-radius: 0px;
+  border-width: 1.5px;
+  font-family: 'IM Fell Great Primer', serif;
+  background-image: linear-gradient(to bottom, #bdbd45, #131111); }
+
+nav {
+  background-image: linear-gradient(to bottom, #bdbd45, #131111); }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.bkgImg {
+  background-image: url(../img/fondo-de-web.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%; }
